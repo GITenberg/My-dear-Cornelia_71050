@@ -1,0 +1,40 @@
+_repo: My-dear-Cornelia_71050
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sherman, Stuart Pratt
+    aliases:
+    - Sherman, S. P. (Stuart Pratt)
+    - Sherman, Stuart P.
+    birthdate: 1881
+    deathdate: 1926
+    gutenberg_agent_id: '39367'
+    url: http://www.gutenberg.org/2009/agents/39367
+    wikipedia: https://en.wikipedia.org/wiki/Stuart_Sherman
+description: ''
+gutenberg_issued: '2023-06-26'
+identifiers:
+  gutenberg: '71050'
+  lccn: '24024601'
+language: en
+pgterms:marc905: 20220602144736sherman
+pgterms:marc906: '1924'
+pgterms:marc907: US
+production_note: Bob Taylor, hekula03 and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This book was produced from images made available by the
+  HathiTrust Digital Library.)
+publication_note: '  $aUnited States :$bThe Atlantic Monthly Press, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conversation -- Fiction'
+- !lcsh 'Upper class families -- Fiction'
+- !lcsh 'United States -- Social conditions -- 1918-1932 -- Fiction'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: Challenging the idea of chastity -- An eligible young man -- Treating
+  of modern girls -- Cornelia and Dionysus -- Approaching religion and other grave
+  matters.
+title: My dear Cornelia
+url: http://www.gutenberg.org/ebooks/71050
